@@ -5,3 +5,5 @@ numpy
 matplotlib
 seaborn
 torch --index-url https://download.pytorch.org/whl/cpu
+reportlab
+pillow

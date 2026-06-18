@@ -3,7 +3,7 @@
 int main() {
     // Lista de archivos de entrada
     std::vector<std::string> inputFiles = {
-        "../rootfiles/new_new_model_production/M50pT1.root"
+        "/home/juan/Btagginghep/rootfiles/Nose/tag_1_delphes_events.root"
     };
 
     // Crear instancia de JetAnalyzer
